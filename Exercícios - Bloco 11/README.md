@@ -1,19 +1,5 @@
-# Bloco 11 - Exercício Dia 1
+# BLOCO 11 - INTRODUÇÃO A REACT
 
-1- Crie um novo projeto utilizando npx create-react-app .
+- Esse bloco pertence ao módulo de `Desenvolvimento FrontEnd` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi sobre React e seus principais conceitos como sintaxe JSX, React.DOM.render, Criação de Componentes Funcionais e de Classe, Composição de Componentes, Props, ProTypes e checagem de tipos.
 
-2- Crie uma lista de tarefas simples seguindo os passos abaixo:
-
-insira a função a seguir acima do seu App :
-
-```
-const Task = (value) => {
-  return (
-    <li>{value}</li>
-  );
-}
-```
-
-* Agora, chame a função dentro do seu componente App (não se esqueça da sintaxe JSX!). Insira o valor que você quiser, salve a página e inicie-a rodando o comando npm start .
-
-* Por fim, crie uma array de compromissos e use a função map para que cada item do array apareça, como um item de lista, no seu componente App .
+- Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessa-lo [aqui](linkProjetoDoBloco).
