@@ -1,4 +1,4 @@
-# Bloco 11 - Exercícios Dia 3
+# Bloco 12 - Exercícios Dia 1
 
 Hoje você vai incrementar a sua Pokedex utilizando *Estado* .
 
@@ -7,10 +7,6 @@ Você pode encontrar informações mais detalhadas no **[repositorio do exercíc
 
 
 ![img](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/front-end/react/components-with-state/pokedex-899a2c228538b5313db0d59cb9d4f87d.gif)
-
-```
-
-```
 
 - 🦜 **Dica:** Você pode armazenar no estado do componente pai da aplicação o pokemon sobre o qual está iterando no momento *e* os filtros aplicados sobre a lista.
 
